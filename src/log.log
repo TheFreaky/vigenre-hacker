@@ -1,0 +1,296 @@
+Kasiski Examination results say the most likely key lengths are: 2 3 6 4 9 8 5 10 7
+
+Attempting hack with key length 2 (16 possible keys)...
+Possible letters for letter 1 of the key: Л Й П У
+Possible letters for letter 2 of the key: Р С Л П
+Attempting hack with key length 3 (64 possible keys)...
+Possible letters for letter 1 of the key: Л Р П Ф
+Possible letters for letter 2 of the key: О У С Ф
+Possible letters for letter 3 of the key: К В Е Ё
+Attempting hack with key length 6 (4096 possible keys)...
+Possible letters for letter 1 of the key: Л М Ж З
+Possible letters for letter 2 of the key: С М Р Т
+Possible letters for letter 3 of the key: Й Е И К
+Possible letters for letter 4 of the key: Р С Л Ф
+Possible letters for letter 5 of the key: У О Ф Ж
+Possible letters for letter 6 of the key: П К Ж Л
+Attempting hack with key length 4 (256 possible keys)...
+Possible letters for letter 1 of the key: Л Ё Й П
+Possible letters for letter 2 of the key: Р С В Л
+Possible letters for letter 3 of the key: Л У Ё Ж
+Possible letters for letter 4 of the key: С Л М П
+Attempting hack with key length 9 (262144 possible keys)...
+Possible letters for letter 1 of the key: Л Ж Р Ф
+Possible letters for letter 2 of the key: О С У Ч
+Possible letters for letter 3 of the key: П Й К Л
+Possible letters for letter 4 of the key: Л Р Г З
+Possible letters for letter 5 of the key: О П У Т
+Possible letters for letter 6 of the key: И Е Й В
+Possible letters for letter 7 of the key: Л Р Ю Г
+Possible letters for letter 8 of the key: О У Ф Х
+Possible letters for letter 9 of the key: К П Й В
+Attempting hack with key length 8 (65536 possible keys)...
+Possible letters for letter 1 of the key: Л Ф Ь Е
+Possible letters for letter 2 of the key: П В Ф Г
+Possible letters for letter 3 of the key: Л У Ж Й
+Possible letters for letter 4 of the key: Р С Л М
+Possible letters for letter 5 of the key: Л Ё Й К
+Possible letters for letter 6 of the key: Р С Л О
+Possible letters for letter 7 of the key: Л П Ё Ж
+Possible letters for letter 8 of the key: С Р Л М
+Attempting hack with key length 5 (1024 possible keys)...
+Possible letters for letter 1 of the key: Л О Ф К
+Possible letters for letter 2 of the key: Л С М Р
+Possible letters for letter 3 of the key: Л С З М
+Possible letters for letter 4 of the key: Н О У Й
+Possible letters for letter 5 of the key: П Л О Р
+Attempting hack with key length 10 (1048576 possible keys)...
+Possible letters for letter 1 of the key: Л П Г Ё
+Possible letters for letter 2 of the key: С М Н П
+Possible letters for letter 3 of the key: Й Б Е Л
+Possible letters for letter 4 of the key: Р П Ф Д
+Possible letters for letter 5 of the key: Л Ф Ь Й
+Possible letters for letter 6 of the key: Р Ф Л П
+Possible letters for letter 7 of the key: Л Ф Ё Ж
+Possible letters for letter 8 of the key: Р С Г З
+Possible letters for letter 9 of the key: Л Ж Й Е
+Possible letters for letter 10 of the key: С П Р Л
+Attempting hack with key length 7 (16384 possible keys)...
+Possible letters for letter 1 of the key: Л О С З
+Possible letters for letter 2 of the key: Р С Л М
+Possible letters for letter 3 of the key: К Л О П
+Possible letters for letter 4 of the key: Л П У З
+Possible letters for letter 5 of the key: П Л С Ф
+Possible letters for letter 6 of the key: Л П В О
+Possible letters for letter 7 of the key: Р Г Л С
+Unable to hack message with likely key length(s). Brute forcing key length...
+Attempting hack with key length 1 (4 possible keys)...
+Possible letters for letter 1 of the key: Л К П О
+Failed to hack encryption.
+
+--------------------------------------------------------------
+
+Kasiski Examination results say the most likely key lengths are: 2 3 6 4 9 8 5 10 7
+
+Attempting hack with key length 2 (16 possible keys)...
+Possible letters for letter 1 of the key: Е Й У Ж
+Possible letters for letter 2 of the key: Р П С Л
+Attempting hack with key length 3 (64 possible keys)...
+Possible letters for letter 1 of the key: Л Р К П
+Possible letters for letter 2 of the key: О У С Х
+Possible letters for letter 3 of the key: Й К Б Г
+Attempting hack with key length 6 (4096 possible keys)...
+Possible letters for letter 1 of the key: Л Ж К Г
+Possible letters for letter 2 of the key: С Л М Р
+Possible letters for letter 3 of the key: Й Г Д Ж
+Possible letters for letter 4 of the key: Р К Л Н
+Possible letters for letter 5 of the key: У О Т Л
+Possible letters for letter 6 of the key: П К О З
+Attempting hack with key length 4 (256 possible keys)...
+Possible letters for letter 1 of the key: Е Й Ж Л
+Possible letters for letter 2 of the key: Р Н О П
+Possible letters for letter 3 of the key: Е Й К Н
+Possible letters for letter 4 of the key: Р С Л П
+Attempting hack with key length 9 (262144 possible keys)...
+Possible letters for letter 1 of the key: Л К Р Ж
+Possible letters for letter 2 of the key: Н О Т У
+Possible letters for letter 3 of the key: Й М О А
+Possible letters for letter 4 of the key: Л Р П К
+Possible letters for letter 5 of the key: О Т У П
+Possible letters for letter 6 of the key: Й Ж И Б
+Possible letters for letter 7 of the key: Л К Р П
+Possible letters for letter 8 of the key: О Р У Х
+Possible letters for letter 9 of the key: Й К О П
+Attempting hack with key length 8 (65536 possible keys)...
+Possible letters for letter 1 of the key: Ж Л Е Й
+Possible letters for letter 2 of the key: Р П Т Б
+Possible letters for letter 3 of the key: У Е О Й
+Possible letters for letter 4 of the key: П М Р С
+Possible letters for letter 5 of the key: Е У И Й
+Possible letters for letter 6 of the key: Л П С О
+Possible letters for letter 7 of the key: Е К Ж Й
+Possible letters for letter 8 of the key: Р П С Л
+Attempting hack with key length 5 (1024 possible keys)...
+Possible letters for letter 1 of the key: Л Н О У
+Possible letters for letter 2 of the key: Л Р З К
+Possible letters for letter 3 of the key: П Л М Н
+Possible letters for letter 4 of the key: О Р У Н
+Possible letters for letter 5 of the key: П К О У
+Attempting hack with key length 10 (1048576 possible keys)...
+Possible letters for letter 1 of the key: Е Й К О
+Possible letters for letter 2 of the key: Р С К Н
+Possible letters for letter 3 of the key: И А Е Й
+Possible letters for letter 4 of the key: П Р Л М
+Possible letters for letter 5 of the key: О Е Й Л
+Possible letters for letter 6 of the key: П Р Л Ф
+Possible letters for letter 7 of the key: Л Ж У Е
+Possible letters for letter 8 of the key: П З И М
+Possible letters for letter 9 of the key: Ж Й Н Е
+Possible letters for letter 10 of the key: Р С Л П
+
+--------------------------------------------------------------
+
+python src/vigenereDictionaryHacker.py
+All: 1601911
+Process 10000. 0.6242544061436621%
+Process 20000. 1.2485088122873242%
+Process 30000. 1.8727632184309864%
+Process 40000. 2.4970176245746485%
+Process 50000. 3.121272030718311%
+Process 60000. 3.7455264368619727%
+Process 70000. 4.369780843005635%
+Process 80000. 4.994035249149297%
+Process 90000. 5.618289655292959%
+Process 100000. 6.242544061436622%
+Process 110000. 6.866798467580283%
+Process 120000. 7.4910528737239455%
+Process 130000. 8.115307279867608%
+Process 140000. 8.73956168601127%
+Process 150000. 9.363816092154932%
+Process 160000. 9.988070498298594%
+Process 170000. 10.612324904442257%
+Process 180000. 11.236579310585919%
+Process 190000. 11.860833716729582%
+Process 200000. 12.485088122873243%
+Process 210000. 13.109342529016905%
+Process 220000. 13.733596935160566%
+Process 230000. 14.35785134130423%
+Process 240000. 14.982105747447891%
+Process 250000. 15.606360153591552%
+Process 260000. 16.230614559735216%
+Process 270000. 16.85486896587888%
+Process 280000. 17.47912337202254%
+Process 290000. 18.1033777781662%
+Process 300000. 18.727632184309865%
+Process 310000. 19.351886590453525%
+Process 320000. 19.976140996597188%
+Process 330000. 20.60039540274085%
+Process 340000. 21.224649808884514%
+Process 350000. 21.848904215028174%
+Process 360000. 22.473158621171837%
+Process 370000. 23.0974130273155%
+Process 380000. 23.721667433459164%
+Process 390000. 24.345921839602823%
+Process 400000. 24.970176245746487%
+Process 410000. 25.59443065189015%
+Process 420000. 26.21868505803381%
+Process 430000. 26.842939464177473%
+Process 440000. 27.467193870321132%
+Process 450000. 28.0914482764648%
+Process 460000. 28.71570268260846%
+Process 470000. 29.339957088752122%
+Process 480000. 29.964211494895782%
+Process 490000. 30.588465901039445%
+Process 500000. 31.212720307183105%
+Process 510000. 31.83697471332677%
+Process 520000. 32.46122911947043%
+Process 530000. 33.085483525614094%
+Process 540000. 33.70973793175776%
+Process 550000. 34.33399233790142%
+Process 560000. 34.95824674404508%
+Process 570000. 35.58250115018875%
+Process 580000. 36.2067555563324%
+Process 590000. 36.83100996247607%
+Process 600000. 37.45526436861973%
+Process 610000. 38.07951877476339%
+Process 620000. 38.70377318090705%
+Process 630000. 39.32802758705072%
+Process 640000. 39.952281993194376%
+Process 650000. 40.57653639933804%
+Process 660000. 41.2007908054817%
+Process 670000. 41.825045211625365%
+Process 680000. 42.44929961776903%
+Process 690000. 43.07355402391269%
+Process 700000. 43.69780843005635%
+Process 710000. 44.32206283620002%
+Process 720000. 44.946317242343675%
+Process 730000. 45.57057164848734%
+Process 740000. 46.194826054631%
+Process 750000. 46.819080460774664%
+Process 760000. 47.44333486691833%
+Process 770000. 48.06758927306199%
+Process 780000. 48.69184367920565%
+Process 790000. 49.31609808534931%
+Process 800000. 49.94035249149297%
+Process 810000. 50.56460689763663%
+Process 820000. 51.1888613037803%
+Process 830000. 51.81311570992396%
+Process 840000. 52.43737011606762%
+Process 850000. 53.06162452221128%
+Process 860000. 53.685878928354946%
+Process 870000. 54.31013333449861%
+Process 880000. 54.934387740642265%
+Process 890000. 55.55864214678593%
+Process 900000. 56.1828965529296%
+Process 910000. 56.80715095907326%
+Process 920000. 57.43140536521692%
+Process 930000. 58.05565977136058%
+Process 940000. 58.679914177504244%
+Process 950000. 59.30416858364791%
+Process 960000. 59.928422989791564%
+Process 970000. 60.55267739593523%
+Process 980000. 61.17693180207889%
+Process 990000. 61.80118620822256%
+Process 1000000. 62.42544061436621%
+Process 1010000. 63.04969502050988%
+Process 1020000. 63.67394942665354%
+Process 1030000. 64.29820383279721%
+Process 1040000. 64.92245823894086%
+Process 1050000. 65.54671264508453%
+Process 1060000. 66.17096705122819%
+Process 1070000. 66.79522145737185%
+Process 1080000. 67.41947586351552%
+Process 1090000. 68.04373026965918%
+Process 1100000. 68.66798467580284%
+Process 1110000. 69.2922390819465%
+Process 1120000. 69.91649348809015%
+Process 1130000. 70.54074789423382%
+Process 1140000. 71.1650023003775%
+Process 1150000. 71.78925670652116%
+Process 1160000. 72.4135111126648%
+Process 1170000. 73.03776551880847%
+Process 1180000. 73.66201992495213%
+Process 1190000. 74.2862743310958%
+Process 1200000. 74.91052873723946%
+Process 1210000. 75.53478314338312%
+Process 1220000. 76.15903754952679%
+Process 1230000. 76.78329195567044%
+Process 1240000. 77.4075463618141%
+Process 1250000. 78.03180076795778%
+Process 1260000. 78.65605517410144%
+Process 1270000. 79.28030958024509%
+Process 1280000. 79.90456398638875%
+Process 1290000. 80.52881839253241%
+Process 1300000. 81.15307279867608%
+Process 1310000. 81.77732720481974%
+Process 1320000. 82.4015816109634%
+Process 1330000. 83.02583601710707%
+Process 1340000. 83.65009042325073%
+Process 1350000. 84.2743448293944%
+Process 1360000. 84.89859923553806%
+Process 1370000. 85.52285364168172%
+Process 1380000. 86.14710804782538%
+Process 1390000. 86.77136245396903%
+Process 1400000. 87.3956168601127%
+Process 1410000. 88.01987126625636%
+Process 1420000. 88.64412567240004%
+Process 1430000. 89.26838007854369%
+Process 1440000. 89.89263448468735%
+Process 1450000. 90.51688889083101%
+Process 1460000. 91.14114329697468%
+Process 1470000. 91.76539770311834%
+Process 1480000. 92.389652109262%
+Process 1490000. 93.01390651540567%
+Process 1500000. 93.63816092154933%
+Process 1510000. 94.26241532769298%
+Process 1520000. 94.88666973383665%
+Process 1530000. 95.51092413998032%
+Process 1540000. 96.13517854612398%
+Process 1550000. 96.75943295226763%
+Process 1560000. 97.3836873584113%
+Process 1570000. 98.00794176455496%
+Process 1580000. 98.63219617069862%
+Process 1590000. 99.25645057684228%
+Process 1600000. 99.88070498298595%
+Failed to hack encryption.
+
